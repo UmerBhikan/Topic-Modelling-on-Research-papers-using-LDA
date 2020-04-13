@@ -1,0 +1,2307 @@
+Article
+
+Financial Spillover Effects in Supply Chains:
+Do Customers and Suppliers Really Benefit?
+Erik Hofmann * and Yannick Sertori
+Institute of Supply Chain Management, University of St. Gallen, 9000 St. Gallen, Switzerland
+* Correspondence: erik.hofmann@unisg.ch
+Received: 2 February 2020; Accepted: 4 March 2020; Published: 10 March 2020
+
+Abstract: Studies have shown that leading supply chain companies are associated with significantly
+higher company financial ratios than competitors. In contrast, little research has focused on the
+financial performance of the affiliated suppliers and customers of such supply chain leader (SCL)
+companies. Thus, the central purpose of this paper is to determine, from a financial perspective,
+whether suppliers and customers benefit or lose by participating in a SCL network (so called
+“financial spillover effects”). Companies that were ranked in the Gartner Supply Chain Top 25 were
+selected as SCLs. For each selected firm, the five largest suppliers and customers were identified
+and compared with a control sample from the same industry. In order to elaborate on existing
+insights into the (financial) outcome of supply chain relationships, we applied an explorative
+approach with abductive reasoning, while comparing the secondary data for 224 SCL supplier (56
+firms) and 168 SCL customer (42 firms) firm-years with 1940 (485 firms) and 1544 (386 firms) control
+firm-years, respectively. The following insights are made: First, the superior financial performance
+of SCLs was confirmed. Second, the financial performance of suppliers and customers showed
+superior liquidity and activity ratios but inferior profitability ratios. Third, suppliers showed much
+more significant results than customers.
+Keywords: financial performance; supply chain excellence; supply chain relationship; supply chain
+finance; liquidity redistribution; profitability waiver; Wilcoxon signed rank test
+
+1. Introduction
+“Firms do not survive and prosper, solely through their own individual efforts, as each firm’s
+performance depends in important ways on the activities and performance of others and hence on
+the nature and quality of the direct and indirect relations a firm develops with these counterparts”
+[1] (p. 123). This dependency between companies implies that relationships among companies are of
+increasing importance today. As various research papers indicate, company relationships based on
+collaboration are linked to higher performance [2–6]. In recent years, consensus has emerged that
+competition in the market has shifted from firm against firm to supply chain against supply chain [7–
+10]. Therefore, supply chain management (SCM) has greatly increased in importance and with supply
+chains, today is seen as a potential source of competitive advantage [11–13]. Many studies have
+shown that excellent SCM practices generate an increase in financial performance [11,13–17].
+However, although many researchers have come to comparable conclusions, each study was carried
+out in different ways and analyzed financial performance with different measures [10]. Although one
+group of researchers used accounting-based measures [11,13,16], another group used market-based
+measures [18], or a combination of both [14,17]. While most of these studies tried to differentiate
+between more and less successful firms, some investigations used established rankings. For instance,
+Greer and Theuri [15] applied Gartner’s (formerly AMR) Supply Chain Top 25 ranking, in order to
+link SCM superiority to multifaceted firm financial performance. The authors showed the superior
+Logistics 2020, 4, 6; doi:10.3390/logistics4010006
+
+www.mdpi.com/journal/logistics
+
+Logistics 2020, 4, 6
+
+2 of 27
+
+financial performance of these supply chain leaders (SCLs). However, within their analysis, Greer
+and Theuri [15] neglected to examine the impacts on the affiliated supply chain business partners of
+these leading companies. Do the affiliated suppliers and customers of these SCLs benefit to the same
+extent, or is the success of the SCLs, in contrast, based on the exploitation of their market position?
+In a more generalized way, Crook and Combs [19] pointed out that today there is consensus on the
+positive influence of effective SCM on firms’ performance, but less attention is given to the
+distribution of the gains through a supply chain. It is interesting to understand whether other
+members in an “outperforming” supply chain derive benefit from this kind of leadership, too, and, if
+so, how. Thus, we try to close this gap by focusing on suppliers and customers of SCLs and analyzing
+their (accounting-based) financial performance. We call such a financial reaction in the supply chain
+a “financial spillover effect”.
+The question of whether and how affiliated suppliers and customers benefit from leading supply
+chain companies is mainly discussed with the topic of supply chain relationships. In that sense, Kim
+and Henderson [20] classified supply chain relationships as of either a competitive (associated with
+power) or cooperative (associated with embeddedness) nature. Commonly, studies in the context of
+power relations have analyzed the dominant position of buying companies (customers) and
+highlighted a negative impact on suppliers’ financial performance [21–23], especially a negative effect
+on profitability [24]. Even confronted with powerful customers, in some cases, suppliers have also
+been associated with positive returns in terms of liquidity ratios, such as shorter cash conversion
+cycles [25]. Contrarily, studies analyzing the cooperative nature of supply chain relationships use
+different—often non-financial—performance data [26,27], making a comparison difficult.
+Cooperative-dominant studies even focus on the affiliated suppliers’ or buyers’ operational
+performance improvements or efficiency effects [27–30]. Thus, there has only been limited
+comprehensive analysis in the literature of the financial performance implications for the affiliated
+suppliers and customers of leading supply chain firms [21,22,31]. Herein, “comprehensively” means
+an impact analysis in terms of liquidity, financial activity and profitability measures.
+Based on these gaps, the present study tries to answer the following research question: “Do
+suppliers and customers of SCLs demonstrate superior financial ratios compared to those of other
+companies from the same industry?” The purpose of this study is to investigate the financial spillover
+effect in supply chains and whether suppliers and customers may derive beneficial advantages from
+participating in an SCL’s network. The study is carried out by selecting firms from the three central
+samples (SCLs, SCL suppliers and SCL customers). We collect financial statement information about
+SCLs’ key customers and suppliers. The control samples are established by taking firms from the
+same industry. The analysis is based on secondary data (financial ratios). The usage of secondary
+data to build or elaborate theory is common in finance research. This is also becoming increasingly
+common in supply chain and industrial organization research, as suggested by Rabinovich and
+Cheon [32] and Busse [33]. We assume that publicly available practices—affiliation with a certain
+supply chain network—can explain variations in firm-level (financial) performance. Based on
+Gartner’s Supply Chain Top 25 ranking, we identified a set of SCLs. A Wilcoxon signed rank test was
+conducted. Following an explorative study approach with abductive reasoning, we identify some
+interesting correlations and state propositions at the end.
+This study shows that suppliers and customers are associated, on one hand, with superior
+liquidity and activity and, on the other, with inferior profitability ratios compared with peers from
+the same industry. These findings confirm the existence of financial spillover effects in supply chains,
+highlighting correlations between supplier and customer ratios and demonstrating that SCLs’
+business partners can derive financial performance benefits (and losses) from their participation in
+an SCL network. In accordance with Kim and Henderson [20], it is suggested that in such supplier–
+customer relations, competitive and cooperative relationships co-exist. The present findings also
+contribute to the work of Gulati and Sytch [28] who, in relation to interdependency, distinguished
+between asymmetry dependency (in terms of the logic of power) and joint dependency (in terms of
+the logic of embeddedness). The contribution for practitioners is a profound understanding of the
+
+Logistics 2020, 4, 6
+
+3 of 27
+
+potential consequences of participating in an SCL’s network. Nevertheless, this topic warrants further
+exploration in future studies.
+This paper is organized as follows: In the second section, the theory and a literature review about
+the central topics are provided. In the third section, the methodology is presented, explaining the
+explorative study approach with abductive reasoning, data sources, sample selection and data
+analysis methods. In the fourth section, the results for each of the three samples are highlighted
+separately. In the fifth section, the findings are discussed, and propositions are put forward. Finally,
+in the sixth section, a conclusion is given, as well as implications for theory, practice and future
+research.
+2. Research Context
+2.1. Supply Chain Management and Firm Financial Performance
+Johnson and Templar [34] state that SCM “directly impacts organizational profitability, liquidity
+and productivity and the effects can be measured and reported via the financial statements and ratios
+used to externally monitor organizational performance” (p. 91). In practice, the Pricewaterhouse
+Coopers Global Supply Chain Survey 2013 came up with six key findings about how leader firms
+manage supply chains. One of these findings is that improving a company’s supply chain leads to
+around 70% higher financial and operational performance [35]. In addition, Deloitte Consulting LLP
+[36] (p. 2), in their 2014 Global Supply Chain Survey, which selected leader and follower companies,
+showed that the majority of SCLs demonstrate well above average revenue growth and earnings
+before interest and taxes (EBIT) margins. In this study, leaders and followers were selected by
+questioning a large number of executives (more than 400) in manufacturing and retail firms about
+distinctive supply chain approaches and by using two performance metrics (inventory turnover and
+percentage of deliveries that are on time and in full) [36] (p. 1).
+The link between the efficiency of supply chain processes and financial performance, which
+finally improves value for shareholders, has been established in the literature [37–39]. Christopher
+[40] depicted the three main financial dimensions of a firm that are influenced by SCM: cash flow,
+profit and resource utilization. A firm’s profitability depends to a large extent on how costs are
+managed in a supply chain [41]. An increase in supply chain efficiency, which reduces costs, increases
+a company’s short-term profit [42]. To calculate cost efficiency, the cost to sales (cost of goods sold
+(COGS) to sales) ratio is a commonly used metric [43]. In terms of liquidity, the cash conversion cycle
+is a metric for measuring the net cash flow generated from a firm’s assets [44]. In literature, it is also
+named cash-to-cash [45], cash cycle [24] or net operating cycle [46]. For the purpose of uniformity
+during the study, the name cash conversion cycle (CCC) will be used. A reduction in inventory and
+accounts receivable and an extension of accounts payable are the drivers for improving the CCC
+financial ratio.
+The literature on the financial impacts of SCM performance can roughly be clustered into two
+groups [10]: supply chain excellence and supply chain disruptions. While the first group of literature
+analyzes the contribution of exemplary SCM practices [11,14–17,47], the second group focuses on
+supply chain disruptions and their negative financial impact [48–50]. For the present analysis, the
+first group is of greater interest and is further examined.
+D’Avanzo et al. [14] showed that leader firms, compared with the industry average growth rate,
+are associated with significantly higher market capitalization growth rates. In this study, leaders were
+selected through “a statistical correlation between companies’ financial success and the depth and
+sophistication of their supply chains” (p. 40). The leading companies were found through different
+sources, including, among others, the Gartner Supply Chain Top 25 ranking [51]. Whereas Ellinger
+et al. [11] showed that leading companies have a higher Altman Z-score compared to their peers,
+Greer and Theuri [15] found that SCLs outperform non-SCL competitors in terms of accountingbased costs, activity and liquidity ratios, proving that SCLs are financially healthier. Swink et al. [17]
+showed that leading companies in SCM, compared to competitors, are associated with significantly
+better financial and market metrics.
+
+Logistics 2020, 4, 6
+
+4 of 27
+
+Regarding the financial strength of the SCLs, two other issues are combined. First, the question
+arises from where the better financial and market metrics come. Second, it is of interest what happens
+with these financial resources (retention vs. disbursement). The SCM literature provides various
+theoretical explanations for both points.
+Regarding the first point (the source of superior financial metrics), two different perspectives
+are to be distinguished. A positive “success” was realized based on their own strength, including the
+unilateral exploitation of an asymmetrical power situation [28], which amounts to the temptation to
+pursue opportunistic behavior [52]. If this is the dominant point of view, it is not expected that related
+suppliers and customers will profit to the same extent [53]. In contrast, an argument can also be made
+for the joint activities in the supply chain as the reason for the positive success. A possible explanation
+can be found in the relational exchange and the related joint learning and knowledge transfer
+approach [54,55]. The joint dependency approach also contributes to this [28]. Gulati and Sytch [28]
+found that while joint dependency improves the performance of manufacturers in procurement
+relationships, this effect is partially moderated “by the level of joint action and the quality of
+information exchange between the partners” (p. 32). Especially in long-term relationships, the supply
+chain efficiency improves [56], and the performance of key suppliers increases [57].
+Regarding the use of the financial resources, there are again two possible approaches. Initially,
+the resources could stay in the company as profit retention, or they could be distributed to own
+shareholders (both leading to a negative spillover effect). Furthermore, an additional possible
+explanation could be found in the supply chain-oriented interpretation of the resources dependence
+theory, in which the supply chain members recognize that dependence can create forbearance and
+trust [58]. In such a model, SCL-related suppliers and customers would positively profit though an
+inter-organizational redistribution of financial resources in the supply chain.
+Regarding these issues, research gaps arise as the perspectives predominantly applies to SCLs
+has not yet been completely clarified. Furthermore, it is unclear to what extent the considerations
+between the categories of financial figures differ. It is quite possible that the attitude of SCLs differs
+regarding the provision of liquidity compared to profit sharing.
+2.2. Supplier and Customer Performance Implications from Supply Chain Relationships
+As Tan et al. [59] (p. 1047) point out, companies today cannot exist in isolation, and for this
+reason, the integration of suppliers with their customers, as well as customers with their suppliers, is
+central to achieve, among other indicators, financial goals. This fact leads to the question of what
+exactly the benefits are for suppliers and customers in supply chains.
+To date, different studies have explored the benefits for different actors operating in supply
+chains. It is striking how many ways the researchers who have investigated this topic differ, in areas
+such as industry focus and/or the element of SCM that is analyzed, such as total quality management
+(TQM) [59,60], efficient consumer response [61] or information technology [31]. Moreover, central to
+this academic field is the analysis of the benefits that can be drawn from different relationships
+between actors in supply chains. Various studies, among others, have analyzed the performance
+effects of supply chain relationships. Whereas research concerned with supply chain relationships
+differs in the analysis of the members in a relationship (e.g., supplier–manufacturer [21] or supplier–
+retailer [28]), the literature on the benefits of suppliers and customers in supply chains has come to
+different results and conclusions. Kim and Henderson [20] categorize the existing literature on supply
+chain relationships as being of either a competitive or cooperative nature.
+Although competitive relationships are often analyzed in power situations, the cooperative
+viewpoint focuses on embeddedness. Deepening the study’s findings related to power contexts, Kim
+and Wemmerlöv [23] found that customer power, created by the supplier’s dependency, is positively
+associated with increasing cooperation, which has a negative impact on the supplier’s financial
+performance. By analyzing the relationship between suppliers and main customers, Patatoukas [25]
+has shown that the buyer’s power has a negative effect on the supplier’s profitability by reducing the
+gross margin and has a positive influence by reducing selling, general and administrative expenses
+(SG&A), enhancing asset utilization and shortening the CCC. Through an examination of supplier–
+
+Logistics 2020, 4, 6
+
+5 of 27
+
+seller–buyer relationships, Lanier et al. [24] suggest that, whereas profitability in supply chain
+relationships is more likely to be sourced from downstream supply chain partners, CCC benefits are
+gained by every member in the chain. Furthermore, Gosman and Kohlbeck [21] analyzed the
+consolidation in the retail market. They concluded that the increase in bargaining power for retailers
+decreased suppliers’ gross margin. Confirming these results, other studies proved that customer
+concentration and power increase the dependency of suppliers [62] and decrease suppliers’
+profitability [22]. Furthermore, in line with Duffy and Fearne [63], the literature shows that power
+asymmetry can have a negative impact on the distribution of benefits in supply chain partnerships.
+Although powerful buyers have a negative impact on a supplier’s performance, and especially
+on profitability [21], in some cases, suppliers are also associated with positive returns in liquidity
+ratios, such as a shorter CCC [24,25]. A question that arises in connection with the power asymmetry
+and the supposed dependency of suppliers from their customers and of customers from their
+suppliers is about the reasons that lead to this situation, particularly as it involves a more or less
+exposed SCL. According to the strategic choice approach, from a supplier’s perspective, it could have
+been a conscious decision based on the attractiveness of winning the SCL as a customer. The
+attractiveness of the SCL, from the supplier’s perspective, can be based upon its brand strength or its
+reputation or due to its size and the related market potential. Within an existing supplier–buyer
+relationship, the degree of dependence varies depending on how much a creditor can afford to lose
+[64]. In order to acquire the SCL as a customer, the suppliers can make a specific investment (e.g.,
+implementation of a specific IT system or adaptation of processes). Such investments or the
+acceptance of a discount on their sales lead to a reduction in the supplier’s profitability.
+A similar argumentation can be made from the perspective of a SCL customer. Studies suggest
+that a retailer’s (customer’s) ability to partner with focal suppliers (SCLs) is key to category
+management effort and performance [53]. Due to the importance or criticality of the products of the
+SCL, the customer even feels obliged (as a strategic choice) to accept the products of the SCL against
+a substantial price premium. In doing so, the customer’s COGS rise, and his or her profitability sinks.
+Thus, we call this reasoning “profitability waiver thesis”. If possible (products or materials of the SCL
+supplier are substitutable), the customer can reduce the dependency by the development of dual or
+even multiple sourcing.
+Summing up, although the link between SCM and financial performance and the link between
+supply chain excellence and financial performance superiority has been studied in depth, only a few
+studies have analyzed suppliers or customers of SCL firms or the (financial) performance distribution
+through supply chains. No study has comprehensively explored the financial implications
+(spillovers) of being member of an SCL’s network for suppliers and customers. This fact is
+astonishing, as the rationales behind supply chain relationships—a competitive viewpoint based on
+power regimes vs. cooperative viewpoints based on embeddedness—are for their part again well
+examined. Thus, the central purpose of this paper is to identify the potential implications for
+suppliers and customers who participate in an SCL’s network.
+3. Methodology
+3.1. Approach and Data Source
+We follow an explorative research approach with abductive reasoning [65]. Meaning, our
+reasoning starts with a deviating empirical observation, followed by an iterative reflection
+(discussion) with existing theory. According to the consistence (“degree of matching”) between the
+empirical results and existing theory, new insights in the form of propositions are suggested.
+The present study is based on secondary financial data. The usage of secondary data is becoming
+increasingly common in logistics and supply chain research, as suggested by Rabinovich and Cheon
+[32] and Busse [33]. A key advantage of using secondary financial data is that the sample firms must
+not be kept anonymous. All of the examined companies of the study at hand are listed in appendix
+A. The two databases used to export the data for this study were (i) the Bloomberg terminal and (ii)
+the Compustat database.
+
+Logistics 2020, 4, 6
+
+6 of 27
+
+“Bloomberg is the popular subscription-based data service that provides a vast array of financial,
+economic and general information to users” [66] (p. 49). It provides all kinds of information on
+equities, bonds, etc. [67,68]. For the present study, the function “SPLC <GO>” is important. This action
+provides information about the supply chains of companies and allows users to explore and deepen
+the topic of SCM. This function shows the key suppliers, customers and competitors of a focal firm
+and displays money flows between these firms.
+In addition to Bloomberg, the Compustat database was used. This database covers
+approximately 98% of the world’s total market capitalization, more than 65,000 firms globally, of
+which more than 45,500 are non-North American securities [69]. In similar studies, this database was
+used, among others, to find control firms for the statistical test and important information about
+companies [4,15,70,71]. For the present study, the Compustat database was used to export and select
+the control sample firms.
+3.2. Sample Selection
+The investigation is carried out from a simple supply chain perspective. We analyze the first-tier
+suppliers (upstream) and the first-tier customers (downstream) of long-term SCLs. Thus, the sample
+selection is based on real supplier–SCL or SCL–customer relationships. In order to diminish one-time
+effects, we looked for firms with complete data sets from a four-year time period (2011–2014). The
+overall sample selection process encompasses a five-step procedure (Figure 1).
+
+.
+Figure 1. Procedure for selecting the samples.
+
+Step 1 encompasses the identification and selection of SCL firms (central sample 1). For this
+purpose, the Gartner Supply Chain Top 25 was used [72]. The Supply Chain Top 25 ranking was
+created from AMR Research in 2004. In 2010, AMR Research was acquired by the Gartner Group,
+which then took over the execution of this study [73]. The main goal behind the Gartner classification
+and analysis is “identifying global supply chain leaders and highlighting their best practices for heads
+
+Logistics 2020, 4, 6
+
+7 of 27
+
+of supply chain and strategy organizations” [74] (p. 15). Gartner [75] uses a composite score to
+determine its top 25 list. The composite score is divided into two components, a financial component
+and an opinion component, which are weighted 50% of the total score. The financial component
+comprises three financial metrics: return on assets (ROA; 25%) = net income / total assets; inventory
+turns (15%) = COGS / inventory; and revenue growth (10%) = change in revenue from the prior year.
+The opinion component is composed of two different panels, which are equally weighted: Gartner
+analyst experts (25%) and peer opinionists (25%). Finally, all the information is normalized on a 10point scale and combined with the weightings named above in a total composite score. To select
+“real” and long-term SCL firms, we decided to choose companies that were leaders for several years.
+For this reason, central sample 1 was restricted to companies that were listed as leaders in the Gartner
+Supply Chain Top 25 ranking (in every one of the years 2011 through 2015). The information about
+the companies was retrieved from Aronow et al. [76], Aronow et al. [74], Hofman [77], Hofman and
+Aronow [78] and Hofman et al. [79]. After eliminating one firm without a substantial group of control
+firms, data of 17 unique SCL firms (68 firm-years) was gathered.
+In Step 2, the biggest suppliers (central sample 2) and the biggest customers (central sample 3)
+of each SCL were selected. The “<SPLC> GO” function in the Bloomberg terminal was used to detect
+the firms of the SCL networks. Looking upstream the supply chain, it is possible to break down four
+groups of suppliers, depending on the different types of costs of the SCL they supply to: COGS
+suppliers, SG&A suppliers, CAPEX suppliers and R&D suppliers. As these different suppliers tie
+different costs of focal firms (e.g., while from an accounting view COGS and SG&A expenses are
+stated in the profit and loss statement, CAPEX and R&D expenses have to be capitalized and are
+listed on the balance sheet), they must be analyzed separately. For a practical purpose, this study
+restricts the analysis to the five biggest COGS suppliers (measured as % of COGS of SCLs) only,
+because the COGS is important for SCM, given that it “reflects the direct costs and overhead
+associated with the physical production of products for sale” [80] (p. 276). After adjustments (e.g.
+elimination of duplicates), the central sample 2 “biggest suppliers per each SCL” covered 56 unique
+firms, making—according the chosen four years period to elaborate long term relationships with the
+SCL (see above)—224 firm-years. Looking downstream the supply chain, the five biggest customers
+per SCL (measured as % of revenue of SCLs) were selected. After adjustments, the central sample 3
+“biggest customers per each SCL” included 42 unique firms and 168 firm-years. Table 1 summarizes
+the two steps and sub-steps for identifying and selecting the three central samples.
+Table 1. Procedure for identifying the firms of the three central samples.
+1.1
+1.2
+1.3
+1.4
+2.1
+2.2
+2.3
+2.4
+2.5
+
+Step 1: SCLs sample selection
+SCLs
+Firms that were ranked at least one year between 2011 and 2015 in the Top 25
+36
+Firms that were listed every of the last five years (2011–2015) in the Top 25
+18
+Firms after eliminating companies due to a lack of control firms in the same
+17
+industry
+Firm-years (2011–2014)
+68
+Step 2: Suppliers and customers sample selection
+Suppliers Customers
+Firms*
+90
+90
+Firms after eliminating duplicates**
+71
+49
+Firms after eliminating companies due to a lack of control firms
+56
+43
+Firms after eliminating companies due to a lack of available data
+56
+42
+Firm-years (2011–2014)
+224
+168
+* The five biggest suppliers (measured as % of COGS of SCLs) and customers (measured as % of
+revenue of SCLs) of each of the identified SCL firms identified in sub-step 1.2.
+** Firms that are suppliers or customers for two or more SCL firms are eliminated.
+
+In Steps 3 to 5, the control samples are selected. The present study compares SCLs, SCL-suppliers
+and SCL-customers with their peer groups in the same industry. This means that for every company
+in the central samples, all appropriate firms in the same industry (the same four-digit Standard
+
+Logistics 2020, 4, 6
+
+8 of 27
+
+Industrial Classification (SIC) code) were taken as the control sample [71]. To determine the
+benchmark of the industry, the median of the ratios was then calculated. Medians of at least three
+ratios (three available sets of company data) were used. To refine the control firms’ selection and the
+benchmarking, the following procedure was applied. First, every firm still active in the Compustat
+database was downloaded with the four-digit SIC code (Step 3). Second, only the firms with an exact
+match based on the four-digit SIC codes of the central sample firms were considered (Step 4). Third,
+this sample was further restricted by including only firms that, in 2014, were at least mid-caps,
+meaning a market capitalization > USD 2 billion (Step 5). Appendix B shows the distribution of the
+three central samples’ companies in market capitalization. This last step is relevant for selecting more
+robust control samples, considering that the central samples also contain bigger firms. Therefore, it
+makes sense to take large companies, which thus serve as stronger control firms, and the results can
+then be more significant. We consciously decided to apply the following design in order to have a
+larger database. On one hand, if we had decided on control sample firms with a market capitalization
+> USD 5 billion, we would have had to remove 7 of the 17 SCL companies from the analysis, due to
+missing of control sample data, thus drastically reducing the number of analyzed firms. On the other
+hand, we decided to use control sample firms > USD 2 billion as this is the entry level barrier for midcap companies. Figure 2 displays the number of firm-years (N) in the samples and summarizes the
+sources or databases that were used to retrieve the information.
+
+Figure 2. Number of firm-years in the samples and sources of data.
+* Sample selection source: Gartner Supply Chain Top 25.
+** Sample selection source: Bloomberg.
+*** Sample selection source: Compustat. All company ratios are downloaded from Bloomberg.
+— Supply chain relationship.
+- - Wilcoxon signed rank test.
+
+3.3. Data Analysis
+The present study is based on Greer and Theuri’s [15] work of analyzing the cost, liquidity and
+activity ratios of SCL firms. In order to take the study one step further, some ratios were added. The
+liquidity ratios are the operating cycle, CCC, current ratio and cash turnover. In contrast to Greer and
+Theuri’s [15] study, the operating cycle was classified as the liquidity ratio, considering that it
+measures the time from acquisition of inventory and the realization of cash from sales. At the same
+time, the liquidity ratio is also very similar to the CCC, also named the net operating cycle, which is
+definitely classified as a liquidity ratio [46]. The CCC extends the operating cycle analysis by
+introducing accounts payable. Stewart [81] describes the CCC as “a composite metric describing the
+average days required to turn a dollar invested in raw material into a dollar collected from a
+customer” (p. 43). A positive CCC means that the focal company has increasing costs because of
+additional borrowed money [45]. If the CCC is short or even negative, the firm is receiving its
+accounts receivable from customers before paying its accounts payable to suppliers. In such a
+constellation, the company increases its liquidity and is financed by suppliers [44].
+
+Logistics 2020, 4, 6
+
+9 of 27
+
+As activity ratios for this study, the following are selected: receivables turnover, asset turnover
+and days inventory outstanding (DIO). This is similar to the activity ratio analyzed by Greer and
+Theuri [15]. As mentioned, the operating cycle was displaced in the liquidity category.
+Profitability is a new category, in comparison on Greer and Theuri’s [15] work. For the purpose
+of this study, the two cost ratios were added to the profitability category, because of their direct
+impact on a firm’s profit. The two additional profitability ratios, EBIT margin and return on capital
+employed (ROCE), look at the profit earned by the firm. While the EBIT margin concentrates on the
+income statement, the ROCE also incorporates the balance sheet and looks at the earning power of
+the total capital. Table 2 lists all the chosen ratios.
+Table 2. Selected financial ratios.
+
+Profitability
+
+Activity
+
+Liquidity
+
+Ratios
+
+Formula
+
+Bloomberg description*
+Measures the time
+Accounts receivable turnover in between the acquisition of
+inventory and the
+Operating cycle**
+days +
+realization of cash from
+inventory turnover in days
+sales of inventory.
+Metric which expresses
+Accounts receivable turnover in
+the length of time, in days,
+days +
+that it takes for a company
+inventory turnover in days –
+Cash conversion cycle
+to convert resource inputs
+accounts payables turnover in
+into cash flows.
+days
+Ratio to indicate the
+company's ability to pay
+Current ratio
+Current assets / Current liabilities
+back its short-term
+liabilities with its shortterm assets.
+Cash and near cash
+turnover ratio measures
+Cash turnover
+Sales / Cash
+how effective a company
+is utilizing its cash.
+Ratio that measures how
+many times a business can
+Receivable turnover
+Sales / Average total receivables
+collect its average accounts
+receivable during the year.
+The ratio is an indicator of
+the efficiency with which a
+Assets turnover
+Sales / Average total assets
+company is deploying its
+assets.
+Average number of days
+that goods remain in
+Days inventory outstanding
+(Inventory / COGS) x 360
+inventory before being
+sold.
+Earnings before interest
+EBIT margin
+(EBIT / Sales) x 100
+and taxes (EBIT) as a
+percentage of net sales.
+Ratio which indicates the
+company's ability to use
+Return on capital employed (EBIT / Capital employed) x 100
+its capital investment
+efficiently.
+
+Logistics 2020, 4, 6
+
+10 of 27
+
+COGS to sales
+
+(COGS / Sales) x 100
+
+SG&A to sales
+
+(SG&A / Sales) x 100
+
+Percentage of revenue (net
+sales) used to pay costs of
+goods sold.
+Selling, general, and
+administrative (SG&A)
+expenses as a percentage
+of total sales.
+
+*Considering that the data for the analysis are downloaded from the Bloomberg database, if not
+otherwise specified, the ratio definitions are retrieved from the find fields in the Bloomberg tab. The
+names and formulas of the ratios were simplified and unified to promote understanding.
+**Bloomberg does not have a direct formula for the operating cycle, so it must be calculated with the
+two indicated components.
+
+The data was gathered from 2011 until 2014 for each company from the Bloomberg database.
+The ratios of the firms in the control samples were used to calculate the industry benchmark. The
+median of all ratios of the same year of each firm in the same four-digit SIC code was calculated. In
+this study, the median is preferred to the arithmetic mean because “medians are considered to be
+better indicators. As accounting data are not normally distributed, the medians are extremely robust
+to outliers and other deviations from normality” [70] (pp. 181–182).
+In order to identify significant differences between the ratios of suppliers and customers of SCLs
+and the ratios of control firms in the same industry, we used the Wilcoxon signed rank test (for a
+theoretical deepening of the approach, see Weiers [82] (pp. 505–517); for additional examples of the
+application of the approach in literature, see Greer and Theuri [15], Santhanam and Hartono [71],
+Bharadwaj [70] and Kalwani and Narayandas [4]). This approach is a nonparametric test, which can
+be used for comparing paired samples. As the name reveals, the test compares a sample with another
+(paired) sample [82] (p. 513). According to Weiers [82], “[a] nonparametric test is one that makes no
+assumptions about the specific shape of the population from which the sample is drawn” (p. 506).
+Thus, the Wilcoxon signed rank test is the nonparametric counterpart of the paired-samples t-test
+and compares two dependent samples. Compared to the paired t-test, the Wilcoxon signed rank test
+is seen as more robust against outliers [83]. Another advantage is the small sizes samples can have.
+The logic and procedure for detecting the test statistic W is listed (the procedure is from Weiers
+[82] (pp. 508–517)):
+1.
+2.
+3.
+
+4.
+5.
+
+Create a column with the xi and yi samples and structure them in a way that the
+paired samples are on the same line.
+Calculate the difference between the paired observations, di = xi – yi. This is also the
+measurement of interest for the purpose of the test.
+Calculate the absolute value of di = IdiI, by ignoring di = 0 values and calculating for
+tied rows the average of their position. The IdiI has to be ranked in descending order,
+so that the smallest IdiI has rank 1.
+List the rank of observations where xi > yi in the R+ column.
+Finally, calculate the test statistic by summing these positive differences (W = ∑R+).
+
+If the number of the nonzero differences (di ≠ 0) exceeds 20 (n ≥ 20), it is possible to use a normal
+approximation of the Wilcoxon signed rank test. For the purpose of the study, this assumption is
+satisfactory. For the normal approximation, we need the z-formula, which looks like the following
+[82] (p. 510):
+(
+
+𝑧=
+
+(
+
+)(
+
+)
+)
+
+,
+
+where W is the sum of the R+ ranks, and n is the number of observations for which di ≠ 0.
+4. Results
+
+(1)
+
+Logistics 2020, 4, 6
+
+11 of 27
+
+4.1. Relationship Distribution
+Before the results are described, the relationship between the supply chain members and the
+central samples’ distribution in industries is briefly shown. This provides the basis for the discussion
+and helps to interpret the findings. The relationship between suppliers and SCLs and SCLs and
+customers is displayed in Figure 3. It shows the companies’ percentage of revenue or COGS they
+impact. For the data information, the mean, median and standard deviation (SD) of the analyzed
+companies are provided. Generally, it appears that SCLs have a lower percentage (in the mean and
+the median) in costs and revenues than the suppliers and customers. This shows that SCLs are less
+dependent on their relationship with suppliers and customers than vice versa. Looking at the
+suppliers and customers, it becomes clear that suppliers (SCLs % of revenues) are the most dependent
+companies. They exceed the customers (SCLs % of COGS) by 1.82 percentage points in the mean and
+by 1.09 percentage points in the median.
+
+Figure 3. Relationship strength within the SCL networks.
+Table 3 classifies the central samples in the SIC divisions, in order to get an initial impression of
+the position of the sample companies in the supply chains. Although most of the SCLs (70.6%) and
+suppliers (85.7%) are active in the manufacturing division, 40.5% of the customer firms work in the
+retail trade business. Many customer companies are also active in manufacturing (38.1%). See more
+information about the classification of the samples in SIC code in Appendix A and about the samples
+descriptive data in Appendix B.
+Table 3. Distribution of central sample firms in SIC divisions.
+SIC division
+Manufacturing
+Transportation & Public Utilities
+Wholesale Trade
+Retail Trade
+Finance, Insurance, Real Estate
+Services
+
+N
+12
+1
+4
+-
+
+SCLs
+%
+70.6%
+5.9%
+23.5%
+-
+
+Suppliers
+N
+%
+48 85.7%
+3
+5.4%
+3
+5.4%
+1
+1.8%
+1
+1.8%
+
+Customers
+N
+%
+16
+38.1%
+6
+14.3%
+3
+7.1%
+17
+40.5%
+-
+
+The descriptive results illustrate that whereas SCLs and suppliers are one step before the
+consumption point, most of the customers have direct contact with end consumers.
+4.2. Supply Chain Leaders (SCLs)
+
+Logistics 2020, 4, 6
+
+12 of 27
+
+In line with Greer and Theuri [15], we conducted an analysis to confirm their results, that SCL
+firms have significantly better financial ratios than control firms in the same industries. Table 4
+presents the results for SCLs. Although 76.5% of the analyzed companies are from the US, all firms
+are at least large caps (70.6%) or even bigger, mega-caps (29.4%). Far more than half of the companies
+(70.6%) have more than 100,000 employees.
+Table 4. Comparison of ratios for SCLs and control firms.
+Ratios
+
+Liquidity
+
+Operating cycle
+Cash conversion cycle
+Current ratio
+Cash turnover
+
+Activity
+
+Receivable turnover
+Asset turnover
+Days inventory outstanding
+
+Profitability
+
+EBIT margin
+Return on capital employed
+COGS to sales
+SG&A to sales
+
+Sample
+SCLs
+Control
+SCLs
+Control
+SCLs
+Control
+SCLs
+Control
+SCLs
+Control
+SCLs
+Control
+SCLs
+Control
+SCLs
+Control
+SCLs
+Control
+SCLs
+Control
+SCLs
+Control
+
+N
+68
+1043
+64
+940
+68
+1114
+68
+1111
+68
+1081
+68
+1104
+68
+1057
+68
+1115
+67
+855
+68
+1077
+60
+882
+
+Mean
+89.569
+120.905
+29.062
+62.584
+1.612
+1.822
+14.265
+10.632
+18.724
+13.213
+1.059
+1.109
+59.316
+75.608
+18.408
+10.229
+42.761
+21.153
+51.812
+59.331
+23.598
+22.649
+
+Median
+91.383
+112.072
+34.483
+46.534
+1.351
+1.512
+11.130
+8.260
+10.692
+9.105
+0.914
+1.023
+60.541
+63.505
+18.335
+10.149
+32.306
+20.234
+51.924
+55.584
+25.307
+20.320
+
+Z
+5.505***
+4.641***
+2.542***
+−3.391***
+−3.660***
+0.984
+4.729***
+−6.251***
+−5.703***
+3.837***
+−1.229
+
+Significance: * 10% level, ** 5% level, *** 1% level.
+
+In the following, each ratio result is briefly described (mainly the medians).
+Liquidity Ratios. The operating cycle (91.383 for SCLs vs. 112.072 for control firms) and the CCC
+(34.483 for SCLs vs. 46.534 for control firms) of SCL firms are statistically significantly lower (at the
+1% level). The current ratio (1.351 for SCLs vs. 1.512 for control firms) is also shown to be statistically
+significantly lower (at the 1% level). A general rule for the current ratio is that it should total 200%
+(this means looking at the results 2) and be at least 100%. In this case, the control firms seem to have
+safer current ratios, which contradicts Greer and Theuri’s [15] (pp. 102–103) findings. Even if the
+control firms seem to have a better ratio, the SCLs’ current ratio nevertheless exceeds the minimum
+limit of 1. The cash turnover (11.130 for SCLs vs. 8.260 for control firms) of SCLs, however, is
+statistically significantly higher (at the 1% level) compared with that of the control firms. The lower
+operating cycles and CCCs together with the higher cash turnover ratios imply that SCL firms are
+associated with significantly better liquidity ratios than control firms in the same industries.
+Activity Ratios. The statistically significantly higher (at the 1% level) receivables turnover (10.692
+for SCLs vs. 9.105 for control firms), together with the statistically significantly lower (at the 1% level)
+DIO (60.541 for SCLs vs. 63.505 for control firms) show that SCL firms have better activity ratios
+compared to firms in the same industries.
+Profitability Ratios. The EBIT margin (18.335 for SCLs vs. 10.149 for control firms) and the ROCE
+(32.306 for SCLs vs. 20.234 for control firms) of SCL firms are statistically significantly higher (at the
+1% level) than their respective industry benchmarks. The COGS to sales ratios (51.924 for SCLs vs.
+
+Logistics 2020, 4, 6
+
+13 of 27
+
+55.584 for control firms) are shown to be statistically significantly lower (at the 1% level) than that of
+peers in the same industry. The SG&A to sales ratios are higher (25.307 for SCLs vs. 20.320 for control
+firms) for SCLs, but the results do not reach statistical significance. This seems to be in line with the
+results obtained by Bharadwaj [70] (p. 182) for IT leaders. In sum, the higher EBIT margin and ROCE
+and lower COGS to sales show that SCL firms are associated with better profitability ratios.
+In summary, SCLs are associated with significantly superior liquidity, activity and profitability
+ratios. These results are in harmony with that of Greer and Theuri [15]. The following analysis extends
+their study by analyzing the suppliers and customers of SCL firms.
+4.3. Suppliers
+The suppliers of SCLs are, similar to the SCLs for their part, mostly US companies (51.8%).
+Around one fifth (21.4%) of the firms in this sample are from Asian countries: Japan (8.9%), South
+Korea (7.1%) and Taiwan (5.4%). The majority of the suppliers are large caps (42.9%) and mid-caps
+(39.3%). Most (67.8%) have more than 10,000 employees, 21.4% of which have more than 100,000
+workers. Compared to the SCLs sample, the suppliers’ sample contains smaller companies: 85.7% of
+these firms are active in the manufacturing SIC division. The results for the suppliers of SCL firms
+are displayed in Table 5.
+Table 5. Comparison of ratios for suppliers of SCLs and control firms.
+Ratios
+
+Liquidity
+
+Operating cycle
+Cash conversion cycle
+Current ratio
+Cash turnover
+
+Activity
+
+Receivable turnover
+Asset turnover
+Days inventory outstanding
+
+Profitability
+
+EBIT margin
+Return on capital employed
+COGS to sales
+SG&A to sales
+
+Sample
+Suppliers
+Control
+Suppliers
+Control
+Suppliers
+Control
+Suppliers
+Control
+Suppliers
+Control
+Suppliers
+Control
+Suppliers
+Control
+Suppliers
+Control
+Suppliers
+Control
+Suppliers
+Control
+Suppliers
+Control
+
+N
+198
+1407
+191
+1279
+216
+1710
+220
+1915
+213
+1671
+217
+1907
+199
+1419
+217
+1712
+167
+982
+207
+1584
+156
+1233
+
+Mean
+104.820
+116.172
+53.799
+64.128
+1.833
+1.823
+18.724
+13.114
+9.368
+7.717
+1.173
+0.986
+58.354
+66.442
+6.498
+11.153
+37.903
+19.029
+73.544
+68.457
+14.815
+14.334
+
+Median
+96.995
+113.558
+44.473
+59.893
+1.495
+1.732
+11.164
+8.150
+8.420
+7.477
+0.941
+0.771
+51.290
+63.836
+6.582
+10.697
+15.784
+17.775
+78.890
+66.895
+10.129
+11.887
+
+Z
+3.840***
+4.258***
+3.008***
+−4.416***
+−3.874***
+−3.558***
+4.021***
+5.023***
+−0.686
+−3.958***
+0.177
+
+Significance: * 10% level, ** 5% level, *** 1% level.
+
+Liquidity Ratios. The operating cycle (96.995 for suppliers vs. 113.558 for control firms) and the
+CCC (44.473 for suppliers vs. 59.893 for control firms) of the SCL suppliers are statistically
+significantly lower (at the 1% level) compared to that of control firms in the same industry. The
+current ratio (1.495 for suppliers vs. 1.732 for control firms) is also statistically significantly lower (at
+the 1% level). Similar to the SCLs’ current ratio, in this case, the control firms’ current ratio is closer
+to 2. Consequently, the same as for the SCLs is true here. The cash turnover (11.164 for suppliers vs.
+8.150 for control firms) of suppliers, however, is statistically significantly higher (at the 1% level)
+
+Logistics 2020, 4, 6
+
+14 of 27
+
+compared with that of the control firms. The lower operating cycle and the CCC together with the
+higher cash turnover ratios imply that SCL suppliers are associated with significantly better liquidity
+ratios than control firms in the same industries.
+Activity Ratios. The Wilcoxon signed rank test indicates that the receivables turnover (8.420 for
+SCL suppliers vs. 7.477 for control firms) and the asset turnover (0.941 for suppliers vs. 0.771 for
+control firms) are statistically significantly higher (at the 1% level) than those of the control firms in
+the same industries. In contrast, the DIO (51.290 for suppliers vs. 63.836 for control firms) are
+statistically significantly lower (at the 1% level). This result shows that SCL supplier firms also
+possess significantly better activity ratios.
+Profitability Ratios. There is evidence (at the 1% level) that SCL suppliers’ EBIT margins (6.582 for
+SCL suppliers vs. 10.697 for control firms) are statistically significantly lower than the industry
+benchmarks. The COGS to sales (78.890 for suppliers vs. 66.895 for control firms) ratios are
+statistically significantly higher (at the 1% level) than that of the control firms in the same industry.
+As the ROCE and the SG&A to sales ratios do not present statistically significant results, SCL
+suppliers possess smaller profitability ratios.
+In summary, suppliers of SCLs are associated with significantly superior liquidity and activity
+but inferior profitability ratios.
+4.4. Customers
+The majority of the SCL customer firms are US companies (47.6%). A smaller portion of
+companies (26.1%) are from Japan (9.5%), Great Britain (9.5%) and France (7.1%). The majority of the
+firms are at least large caps (76.1%), of which 7.1% are mega-caps. Most of the customers (61.9%) have
+more than 100,000 employees. This shows that this sample, compared to the SCL suppliers’ sample,
+is made up of bigger companies. The majority (40.5%) of these firms are active in the retail trade SIC
+division: 38.1% of the firms are in the manufacturing sector and 14.3% in the transportation and
+public utilities SIC division. The results for the customers of SCL firms are displayed in Table 6.
+Table 6. Comparison of ratios for customers of SCLs and control firms.
+Ratios
+
+Liquidity
+
+Operating cycle
+Cash conversion cycle
+Current ratio
+Cash turnover
+
+Activity
+
+Receivable turnover
+Asset turnover
+Days inventory outstanding
+
+Profitability
+
+EBIT margin
+Return on capital employed
+COGS to sales
+SG&A to sales
+
+Sample
+Customers
+Control
+Customers
+Control
+Customers
+Control
+Customers
+Control
+Customers
+Control
+Customers
+Control
+Customers
+Control
+Customers
+Control
+Customers
+Control
+Customers
+Control
+Customers
+Control
+
+N
+149
+1295
+147
+1262
+168
+1521
+167
+1514
+159
+1455
+167
+1478
+158
+1336
+168
+1516
+145
+1040
+164
+1378
+138
+1107
+
+Mean
+79.549
+88.494
+29.408
+27.096
+1.277
+1.263
+35.554
+16.106
+26.753
+23.090
+1.433
+1.329
+47.368
+51.908
+7.597
+8.007
+28.598
+20.267
+70.504
+68.925
+18.020
+17.751
+
+Median
+66.288
+88.494
+25.360
+27.062
+1.091
+1.210
+14.830
+11.538
+11.567
+9.487
+1.189
+1.392
+38.229
+48.956
+5.934
+5.574
+18.441
+20.118
+73.134
+74.717
+19.010
+14.643
+
+Z
+2.954***
+−1.187
+1.210
+−4.068***
+−2.411***
+0.859
+2.931***
+2.176**
+−0.342
+−2.102**
+0.231
+
+Logistics 2020, 4, 6
+
+15 of 27
+
+Significance: * 10% level, ** 5% level, *** 1% level.
+
+Liquidity Ratios. The operating cycle of SCL customers (66.288 for SCL customers vs. 88.494 for
+control firms) is statistically significantly lower (at the 1% level) compared to that of control firms in
+the same industry. In addition, the CCC as the current ratio presents misleading results if the mean
+and the median are compared. Further, neither ratio has statistically significant results. The cash
+turnover (14.830 for customers vs. 11.538 for control firms) of customers is statistically significantly
+higher (at the 1% level) compared to that of control firms in the same industry. The lower operating
+cycles, together with the higher cash turnover, imply that SCL customer firms are associated with
+significantly better liquidity ratios than control firms in the same industry.
+Activity Ratios. Although the receivables turnover for SCL customers (11.567 for SCL customers
+vs. 9.487 for control firms) is statistically significantly higher (at the 1% level), the DIO (38.229 for SCL
+customers vs. 48.956 for control firms) are statistically significantly lower (at the 1% level) than that
+of control firms in the same industry. These results show that SCL customer firms are associated with
+significantly better activity ratios.
+Profitability Ratios. The test statistic shows that SCL customers’ EBIT margins are statistically
+significantly lower (at the 5% level) than the industry benchmarks. In addition, although the SCL
+customers’ mean is smaller than that of the control samples’, the median is higher. This says
+something about the distribution of the data. This effect could be because the average distance of the
+firms’ ratios above the median is smaller, and/or the average distance of the customers’ ratios below
+the median is larger. Further, the COGS to sales ratio is statistically significantly higher (at the 5%
+level) than that of control firms in the same industry. For the COGS to sales ratio, the same
+phenomenon as for the EBIT margin appears, only inverted. Although the ROCE as the SG&A to
+sales ratio does not present significant results, SCL customers have smaller profitability ratios than
+their peers.
+Summing up, customers of SCL firms are associated with significantly superior liquidity and
+activity but inferior profitability ratios.
+5. Discussion
+5.1. SCL Networks as a Source of Liquidity
+By analyzing supplier–buyer relationships, Patatoukas [25] showed that suppliers, among
+others, can reduce their CCC through relationships with major customers. Lanier et al. [24], by
+investigating a concentrated three-firm SC, demonstrated that positive CCC results are distributed
+across the supply chain, with some indication that upstream members benefit more. Furthermore,
+Gosman and Kohlbeck [21] showed that suppliers of powerful retailers are associated with a lower
+CCC. These results are, to some extent, in line with our results in which suppliers and SCLs have
+statistically significantly superior liquidity ratios. Although SCL suppliers display a 15.4 day shorter
+CCC against peers, SCL firms for their part show a 12.1 day shorter CCC compared to their control
+samples. By deepening the results, it becomes clear that SCL suppliers have superior operating cycles
+and CCCs, while SCL customers are associated only with superior operating cycles. The customers’
+CCC seems to be inferior, but with no significance. These results could be explained by a few factors.
+On one hand, in line with Gosman and Kohlbeck [21], as well as Gosman and Kelly [62], the suppliers
+seem to balance some of the negative effects, by transferring some of the negative performance effects
+to their suppliers (upstream the supply chain). In addition, looking at the suppliers–SCLs’
+relationship, it seems, in line with Hofmann and Kotzab [84], as if there is an improvement of the
+CCC in the supply chain through an optimization at the external supply chain boundaries. However,
+customers seem to be unable to offset the pressure of SCLs through their respective customers and
+are forced to pay SCLs more quickly, which reduces their accounts payable. Nevertheless, it must be
+pointed out that for the customers the CCC was not found to be significantly inferior. Thus, even if it
+seems that customers are under pressure by SCL firms, customers still possess superior liquidity
+ratios.
+
+Logistics 2020, 4, 6
+
+16 of 27
+
+As the present results significantly show, suppliers and customers of SCL firms are associated
+with superior liquidity ratios, which suggests that these firms can better meet short-term obligations.
+Thus, our first proposition is as follows:
+Proposition 1: Within an SCL’s network, cash is provided for suppliers and customers associated
+with superior liquidity ratios for the affiliated supply chain partners.
+This proposition is in line with the “(liquidity) redistribution thesis” as suggested by Meltzer
+[85], Petersen and Rajan [86] and Cuñat [87], who posit that firms with better access to capital
+redistribute the cash to less advantaged firms. This means, in general, suppliers are paid faster by
+SCLs [88], and customers are granted longer payment terms [89]. In a figurative sense, the supply
+chain with a financially strong SCL firm serves as a source of liquidity for the affiliated up- and
+downstream members—an insight which should be paid much more attention in future supply chain
+investigations.
+5.2. SCL Networks as an Accelerator for Activities
+Looking at the activity ratios of suppliers and customers, the results are analogous to liquidity
+ratios and show superior results compared to industry peers. As previously seen, the ratio categories
+are not mutually exclusive, meaning, for example, that sometimes activity ratios could also be useful
+for calculating the liquidity of a firm [46]. Therefore, the previous and following sections should not
+be strictly separated.
+Looking at the supplier side, the activity ratio results are in line with Patatoukas [25], who found
+that suppliers reported lower assets in inventory and higher asset turnover. Lanier et al. [24] suggest
+that asset utilization is shared between the members, noting that this resource distribution is central
+to the competitive advantage of the supply chain. Previous articles and studies have shown that
+buyer power, created by retailer consolidation, enables the dominant party, among others, to carry
+less inventory and extend payables to suppliers [21,22,62,90]. In contrast to these studies, the present
+results showed that suppliers and customers have superior activity ratios. Although suppliers are
+associated with higher receivables turnover (0.9 higher than the control firms), higher asset turnover
+(0.2 higher than the control firms) and 12.5 day shorter DIO against peers, customers show a 2.1
+higher receivables turnover and 10.7 day shorter DIO.
+The present results can be explained by the “knowledge transfer thesis” [21,62] and the joint
+learning approach, meaning that successful firms (like SCLs) establish their practice excellence by
+suppliers and customers. This is in line with the well-studied relevance of long-term relationships in
+supply chains [91,92]. Ford Motor Company is an example, showing that a change from an
+adversarial to a cooperative relationship with suppliers can improve competitiveness [93]. Extending
+that idea, Carr and Pearson [60] found empirical evidence that a cooperative relationship between
+suppliers and buyers increases both companies’ performance.
+As suppliers and customers of SCL firms are associated with superior activity ratios, these firms
+are able to manage their resources more efficiently. We suggest a second proposition:
+Proposition 2: Within an SCL’s network, suppliers and customers will benefit from know-how
+exchange associated with superior activity ratios for the affiliated supply chain partners.
+5.3. Profitability Exploitation across SCL Networks
+In addition, by looking at the suppliers’ and customers’ profitability, the results are
+unambiguous. Both are associated with statistically significantly inferior ratios compared to those for
+the control firms in the same industry.
+Referring to our analysis, suppliers showed clearer tendency (at the 1% level of significance)
+than customers (at the 5% level of significance). Although suppliers exhibited a 4.1% lower EBIT
+margin, their COGS to sales ratio was 12.0% higher, which demonstrates their profitability ratios’
+inferiority compared to their peers. The customers’ EBIT margin and COGS to sales ratio results
+compared to the control samples show different and confounding means and medians. This result
+
+Logistics 2020, 4, 6
+
+17 of 27
+
+says something about the data distribution and not the statistical results. The difference between the
+customer ratios and those of the control peers is smaller than that of suppliers.
+In a supplier–SCL or SCL–customer relationship, the powerful actors are per definition the SCL
+firms, as they are commonly bigger companies, which are less dependent on their supply chain
+partners (see Appendix B). Following our results, it could be suggested that SCLs exploit their power
+by profitability ratios. Duffy and Fearne [63] showed that power asymmetry is negatively associated
+with sharing of benefits between partners. Especially on the supply side, studies have shown that
+buyer power is negatively associated with suppliers’ profitability. For instance, Gosman and
+Kohlbeck [21] found that suppliers’ gross margin and ROA are negatively correlated with an
+improvement in sales to major customers. A reason could be the influence of dominant actors over
+suppliers that are forced, for example, through open-book accounting practices to provide
+information about cost and profit to their powerful partners, which can use this information to
+enforce price reductions [62]. This is in line with Bianco and Zellner [90] who pointed out that, for
+example, a firm like Wal-Mart strongly influences prices by cost reductions of products among its
+upstream business partners.
+Based on these argumentations, we conclude with the third proposition:
+Proposition 3: Within an SCL’s network, concessions must be made by suppliers and customers
+associated with inferior profitability ratios for the affiliated supply chain partners.
+In addition, the “profitability waiver thesis” seems to be an alternative reason for this third
+proposition. Based on the strategic choice approach, a profitability waiver can be interpreted as a sort
+of “interest rate” to pay, with the SCL as a customer (from the perspective of the suppliers) and with
+the SCL as an important brand supplier (from the perspective of the customers). This is not to say
+that such relationships to SCLs are less attractive; instead, the profitability waiver seems to be a
+conscious compensation of being part of the SCL’s network. Suppliers and customers of SCLs are
+willing to accept the waivers as they intend to build up a dependence relationship in their favor [53].
+The higher the dependency in favor of the SCL, the more willing SCL suppliers are to accept a
+discount on their sales and the more willing SCL customers are to accept a substantial price premium.
+Thus, future supply chain investigations should stress much more the “concession motivations” of
+suppliers and customers being part of a SCL network.
+5.4. Two-sided Financial Characteristics of SCL Networks
+Surprisingly, the present study shows multilateral implications for suppliers and customers of
+SCL firms. The results suggest benefits for suppliers and customers of SCLs in terms of liquidity and
+activity ratios but also indicate that SCLs to some extent exploit their partners’ profitability through
+the power the SCLs possess.
+The multilateral implications for suppliers and customers suggest two-sided behavior by SCL
+firms with their affiliated supply chain partners. Based on Emerson [94], Gulati and Sytch [28] state
+the importance of considering two different dimensions when analyzing interdependence:
+asymmetric dependency (in the logic of power) and joint dependency (in the logic of embeddedness).
+The present results seem to confirm these interdependencies. It can clearly be seen that in both
+relationships (suppliers–SCLs and SCLs–customers), there is an asymmetric dependence, where
+suppliers and customers are much more dependent on their SCLs than vice versa. A joint dependency
+in these relationships can only be suggested as an explanation for the two-sided findings and the fact
+that suppliers and customers also benefit from their relationships with SCLs. Brányi and Józsa [7]
+came to a very similar conclusion: Cooperation can also exist when a firm has power.
+According to our discussion, we formulate the following proposition:
+Proposition 4: Within an SCL’s network, SCL firms, on one hand, dominate their suppliers and
+customers, but, on the other hand, they also depend on these affiliated supply chain partners.
+By analyzing concentrated three-firm supply chains, Lanier et al. [24] showed that in such
+constellations, although the profitability is principally earned by downstream members in the supply
+
+Logistics 2020, 4, 6
+
+18 of 27
+
+chain, the CCCs are earned across the supply chain. One reason for the better profitability of
+downstream members was that the power in a chain is derived from the relationship with the
+ultimate consumer and the position as the manager of the consumption point [95]. The present study
+results are to some extent in contrast with these observations, considering that most of the
+profitability is captured from the dominant SCLs in the middle of the chain. It could be suggested
+that SCLs, with their powerful position, steer and manage the supply chain’s financial performance.
+On one hand, SCLs seem to allow their partners to have better liquidity and resource utilization
+conditions. On the other hand, SCLs exploit their partners when it comes to profitability. Figure 4
+summarizes the main results.
+
+Figure 4. Financial performance distribution in the SCL networks.
++++ very strong positive correlation; ++ strong positive correlation;.
+– – – very strong negative correlation; – – strong negative correlation.
+
+5.5. Financial Dependence of Suppliers in SCL Networks
+Until now, the discussion has been focused on the fact that suppliers and customers gain similar
+financial advantages and disadvantages by doing business with SCLs. It was highlighted that the
+SCLs are the dominant firms that gain the most from the supply chain’s financial performance. Now,
+the discussion shifts to a closer look at the firms’ respective positions in the chain and the dependency
+of suppliers and customers of SCLs.
+Looking more closely at the supply chain position of the firms in the three samples, whereas
+most SCLs (70.6%) and suppliers (85.7%) are manufacturers and so on, instead of one step before the
+point of consumption, the majority of customers (40.5%) are retailers and have direct contact with
+end consumers. Lanier et al. [24] showed that downstream members have more profitability benefits.
+This contradicts the present study results on two points. First, the power in the suppliers–SCL and
+SCL–customers constellation lies in the middle, where SCLs have a dominant position and gain most
+from the profitability in the chain. Second, the customers, who are the most downstream members in
+this triad and are closest to the final consumer, do not display superior profitability ratios.
+We already addressed that suppliers’ results, compared to the customers’ results, are much more
+statistically significant and clear. Now, these results will be deepened. In order to analyze the
+dependence of suppliers and customers of SCLs, the sample sizes (see Appendix B) and the
+relationship strength are briefly examined.
+Looking at the sample sizes, in terms of market capitalization and employee numbers, all SCL
+firms are at least large cap, and the majority of the firms (70.6%) have more than 100,000 employees.
+While the suppliers’ sample consists mainly of mid- (39.3%) and large (42.9%) caps, with only 21.4%
+of the firms that have more than 100,000 employees, 76.1% of the customer firms are at least large
+caps, and 61.9% have more than 100,000 employees. The SCLs are among the biggest and most
+powerful firms in the world, and the customer firms are, on average, bigger than the supplier
+companies. We suggest a higher dependency of suppliers on SCLs than customers. Kim and
+Henderson [20] found differences between suppliers’ and customers’ resource dependency. Whereas
+the benefit of customer dependency for focal firms decreases after a while, the supplier dependency
+increases above this margin. In addition, if these results refer to the profitability of focal firms, they
+show that customers are less dependent on focal firms, which explains the decrease in performance.
+What is interesting here, is that the findings suggest that an increase in dependency is not only
+negative for supply chain members of SCLs but can also be positively correlated to financial
+
+Logistics 2020, 4, 6
+
+19 of 27
+
+performance. The suppliers’ results show better and more significant liquidity and activity ratios than
+customers’.
+This discussion leads to the last proposition:
+Proposition 5: Within an SCL’s network, suppliers benefit more than customers (leading to superior
+liquidity and activity ratios) but are also more exploited (leading to inferior profitability ratios).
+Despite the clear results and the coherent proposition, several important points could not be
+answered:
+•
+
+•
+
+•
+•
+
+•
+
+•
+
+Did the financial success, or rather failure, of the suppliers and customers already
+exist before they became members of the SCL’s network, or did this occur
+afterwards?
+If the first of these applies, could this—the specific selection of suppliers respectively
+customers with superior liquidity and activity ratios respectively inferior
+profitability ratios—be a further success factor of SCLs?
+Do the derived results also refer to smaller suppliers and customers of the SCL? In
+the present examination, only the biggest partners of the supply chain are examined.
+The findings will probably not be transferable to the entire network and every single
+small player of the SCL. In that case, it would be interesting to know which type of
+supplier and customer is affected by this. Besides the company size according to
+COGS (suppliers) or revenue (customers), the criticality of the players could be of
+importance.
+Besides the examined supply chain constellations, do further SCL networks exist,
+onto which the results could be transferred? Is it the criteria of the Gartner Supply
+Chain Top 25 rankings or other characteristics, which distinguish these SCL
+networks?
+Which circumstances have to be met in order for not only the SCLs but also the
+suppliers and the customer firms of the network to have superior profitability ratios?
+
+6. Conclusions and Outlook
+6.1. Summary
+The purpose of this study was to provide a general answer to the question: Why should
+companies be part of an SCL’s network? Specifically, the study sought to analyze the financial
+spillover effect in supply chain networks of SCL companies. To the best of our knowledge, this study
+is the first attempt to explore this topic in a comprehensive way. In answering the research question
+and investigating suppliers–SCL and SCL–customer constellations, the liquidity, activity and
+profitability ratios of three central samples were tested and compared with control groups.
+The results show a very clear picture. First, the SCL results confirmed the financial superiority
+of leader firms in SCM (according to Greer and Theuri [15]). Second, the supplier and customer
+results gave some interesting insights. Both showed superior liquidity and activity ratios and inferior
+profitability ratios. The superior liquidity ratios in SCL networks can be explained by the
+redistribution thesis [86,87]; a reason for superior activity ratios is the knowledge transfer thesis
+[54,55]. An explanation of the inferior profitability ratios (“profitability waiver”) is the strategic choice
+of the suppliers and customers being part of the SCL’s network [58], together with an asymmetric
+power and dependency balance in favor of the SCL [28]. The more dependent party (suppliers) is
+more significantly affected in terms of positive and negative financial performance implications,
+which is in line with the evidence found by Lanier et al. [24]. Finally, it can be concluded that
+companies should participate in an SCL’s network because of the positive implications in terms of
+their liquidity and resource utilization ratios. However, companies should not underestimate the
+potential implications for profitability.
+6.2. Contribution to Theory and Practice
+
+Logistics 2020, 4, 6
+
+20 of 27
+
+The present results make some contributions to theory and practice. First, the study contributes
+to the SCM and industrial networks’ literature by providing deeper insights into supplier–SCL and
+SCL–customer relationships. Based on the literature on SCM excellence [10] and that SCLs are
+typically associated with superior financial performance ratios [15], the present study extends the
+focus by analyzing the suppliers and customers of these leader companies. The results are
+controversial and suggest two-sided behavior by SCLs toward their business partners. More attention
+must be spent while operationalizing the financial benefits of supply chain relationships, precisely
+differing between effects on liquidity, activity or profitability ratios.
+Second, the present results have some implications for practice, particularly for managers of
+companies that sell or buy products from SCL firms. The financial advantages and disadvantages
+(spillover effects) of participating in an SCL’s network are now more appropriate to predict. This
+study showed the financial performance distributions within suppliers–SCL and SCL–customer
+constellations. The knowledge that, in such a constellation, suppliers and customers can draw
+benefits in terms of liquidity and activity but lose in terms of profitability ratios, can help SCLs’
+business partners better plan and assess their relationship. It was shown that suppliers, in general,
+have a higher dependency in this specific supply chain, and are more strongly affected by the positive
+and negative factors. These are important insights that could help companies to better negotiate their
+position in this specific supply chain.
+6.3. Limitations
+Although the present study contributes in a significant way to better understanding the financial
+performance implications for suppliers and customers of SCLs, several limitations should be noted.
+First, because of the selected study design, the findings display correlations between the financial
+performance of suppliers and customers of SCLs, without providing information about the
+causalities. During the discussion, some suggestions about possible causalities were put forward,
+based on existing literature. Second, the analysis focused on large, listed companies. In addition,
+through the selection of the control sample, a threshold of USD 2 billion market capitalization was
+set. Therefore, smaller companies were explicitly excluded from the analysis. Third, only the five
+largest suppliers and customers of SCLs were investigated. For example, Apple, one of the analyzed
+SCLs, has more than 200 suppliers [96] (p. 30). Fourth, only short-term and accounting-based ratios
+were analyzed. To analyze financial performance more comprehensively, the study could be
+extended by incorporating solvency and valuation ratios [46].
+6.4. Future Research
+Although the analysis highlighted interesting correlations between SCLs’ supplier and customer
+financial performance ratios, of interest for further studies is revealing the causalities behind these
+correlations. Topics such as “social capital” [27], or the relatedness and interrelations of suppliers in
+triads [97], could not be deepened because the link was missing in the study methodology. However,
+these studies are important when looking at relationships between business partners across the
+supply chain. For future research, it may be interesting to investigate causalities in a social capital
+context.
+Further, the results of this study are controversial, calling into question the role of SCL firms.
+What does it mean to be a leader in a supply chain? The findings showed that suppliers and
+customers can benefit in their liquidity and activity from the relationship, but they can also lose
+profitability. Thus, two-sided behavior by SCLs could be suggested. As Christopher [8] stated,
+vanguard firms understand that relocating costs up- and downstream are not worthwhile, because
+the costs always ultimately mirror the final product. Based on the present results, this does not seem
+to be of much concern to an SCL firm. Future studies could tackle this issue and analyze whether
+there is potential for SCLs to provide profitability benefits to selected suppliers and customers.
+Finally, the results could also be extended in the context of supply chain finance (SCF) and
+supply chain costing. As the SCF definition has a link to liquidity [98,99] and supply chain costing to
+activity [100,101], it could be relevant to the present findings. Although this study showed benefit
+
+Logistics 2020, 4, 6
+
+21 of 27
+
+distributions in liquidity and activity ratios, it will be interesting for future studies to more closely
+analyze profitability with SCF and supply chain costing together. It would be exciting to understand
+what cooperation in both areas between supply chain members in the presence of leader firms looks
+like.
+Author Contributions: Supervision and re-writing, E.H.; writing—original draft, Y.S. All authors have read and
+agreed to the published version of the manuscript.
+Funding: This research received no external funding.
+Conflicts of Interest: The authors declare no conflict of interest.
+
+Appendix A. Company Names and According SIC Code
+Table A1. SCL firms and four-digit SIC codes (after adjustments).
+Company name
+Nestle SA
+Coca-Cola Co/The
+PepsiCo Inc
+Johnson & Johnson
+Procter & Gamble Co/The
+Colgate-Palmolive Co
+NIKE Inc
+Apple Inc
+Cisco Systems Inc
+Intel Corp
+Samsung Electronics Co Ltd
+3M Co
+Unilever NV
+Wal-Mart Stores Inc
+Industria de Diseno Textil SA
+McDonald's Corp
+Amazon.com Inc
+
+SIC code
+2000
+2086
+2086
+2834
+2840
+2844
+3021
+3571
+3577
+3674
+3674
+3841
+5140
+5331
+5600
+5812
+5961
+
+Table A2. Supplier firms and four-digit SIC codes (after adjustments).
+
+Company name
+Nestle SA
+Wilmar International Ltd
+Dr Pepper Snapple Group Inc
+Monster Beverage Corp
+PepsiCo Inc
+McCormick & Co Inc/MD
+Hansae Co Ltd
+Pan-Pacific Co Ltd
+International Paper Co
+WestRock MWV LLC
+Amcor Ltd/Australia
+Avery Dennison Corp
+Bemis Co Inc
+CCL Industries Inc
+Huhtamaki OYJ
+Johnson Matthey PLC
+
+SIC code
+Company name
+SIC code
+2000
+Hewlett Packard Enterprise Co
+3570
+2070
+HP Inc
+3570
+2086
+Lenovo Group Ltd
+3570
+2086
+Apple Inc
+3571
+2086
+Sony Corp
+3600
+2090
+QUALCOMM Inc
+3663
+2300
+AU Optronics Corp
+3674
+2300
+Celestica Inc
+3674
+2621
+Flextronics International Ltd
+3674
+2621
+Hon Hai Precision Industry Co Ltd
+3674
+2670
+Ibiden Co Ltd
+3674
+2670
+Jabil Circuit Inc
+3674
+2670
+Japan Display Inc
+3674
+2670
+Micron Technology Inc
+3674
+2670
+Samsung Electronics Co Ltd
+3674
+2800
+Shinko Electric Industries Co Ltd
+3674
+
+Logistics 2020, 4, 6
+
+22 of 27
+
+Koninklijke DSM NV
+Berry Plastics Group Inc
+Indorama Ventures PCL
+Alkermes PLC
+Pharmacyclics Inc
+Procter & Gamble Co/The
+PPG Industries Inc
+BASF SE
+Braskem SA
+Givaudan SA
+International Flavors & Fragrances Inc
+EI du Pont de Nemours & Co
+
+2800
+2820
+2820
+2834
+2834
+2840
+2851
+2860
+2860
+2860
+2860
+2870
+
+Viavi Solutions Inc
+BOE Technology Group Co Ltd
+LG Display Co Ltd
+Honeywell International Inc
+Union Pacific Corp
+United Parcel Service Inc
+XPO CNW Inc
+Ingram Micro Inc
+Sun-Wa Technos Corp
+Pegatron Corp
+Berkshire Hathaway Inc
+Microsoft Corp
+
+3674
+3679
+3679
+3714
+4011
+4210
+4213
+5045
+5045
+5065
+6331
+7372
+
+Table A3. Customer firms and four-digit SIC codes (after adjustments).
+
+Company name
+Coca-Cola East Japan Co Ltd
+Coca-Cola Enterprises Inc
+Coca-Cola Femsa SAB de CV
+Coca-Cola HBC AG
+Allergan plc
+Belle International Holdings Ltd
+HP Inc
+Lenovo Group Ltd
+Apple Inc
+General Electric Co
+Hon Hai Precision Industry Co Ltd
+Texas Instruments Inc
+Ford Motor Co
+Honda Motor Co Ltd
+Toyota Motor Corp
+Volkswagen AG
+Rogers Communications Inc
+T-Mobile US Inc
+Telefonica SA
+AT&T Inc
+Deutsche Telekom AG
+
+SIC code
+2086
+2086
+2086
+2086
+2834
+3021
+3570
+3570
+3571
+3600
+3674
+3674
+3711
+3711
+3711
+3711
+4812
+4812
+4812
+4813
+4813
+
+Company name
+Verizon Communications Inc
+Avnet Inc
+WPG Holdings Ltd
+Unilever NV
+Dollar General Corp
+Target Corp
+Wal-Mart Stores Inc
+Aeon Co Ltd
+Carrefour SA
+Costco Wholesale Corp
+Tesco PLC
+Auchan Holding SA
+Casino Guichard Perrachon SA
+Koninklijke Ahold NV
+Kroger Co/The
+Aramark
+CVS Health Corp
+Rite Aid Corp
+Dick's Sporting Goods Inc
+Sports Direct International PLC
+Amazon.com Inc
+
+Appendix B. Central Samples’ Descriptive Data
+Table A4. Distribution of central sample firms per country.
+Country
+AU
+BR
+CA
+CH
+CN
+DE
+ES
+FI
+
+N
+1
+1
+-
+
+SCLs
+%
+5.9%
+5.9%
+-
+
+N
+1
+1
+2
+2
+2
+1
+1
+
+Suppliers
+%
+1.8%
+1.8%
+3.6%
+3.6%
+3.6%
+1.8%
+1.8%
+
+N
+1
+1
+2
+2
+1
+-
+
+Customers
+%
+2.4%
+2.4%
+4.8%
+4.8%
+2.4%
+-
+
+SIC code
+4813
+5065
+5065
+5140
+5331
+5331
+5331
+5399
+5399
+5399
+5399
+5411
+5411
+5411
+5411
+5812
+5912
+5912
+5940
+5940
+5961
+
+Logistics 2020, 4, 6
+
+23 of 27
+
+FR
+GB
+IE
+JP
+KR
+MX
+NL
+SG
+TH
+TW
+US
+
+1
+1
+13
+
+5.9%
+5.9%
+76.5%
+
+1
+1
+5
+4
+1
+1
+1
+3
+29
+
+1.8%
+1.8%
+8.9%
+7.1%
+1.8%
+1.8%
+1.8%
+5.4%
+51.8%
+
+3
+4
+4
+1
+1
+2
+20
+
+7.1%
+9.5%
+9.5%
+2.4%
+2.4%
+4.8%
+47.6%
+
+Table A5. Distribution of central sample firms per market capitalization category.
+Market capitalization
+Mega cap
+Large cap
+Mid cap
+Smal cap
+n/a
+
+N
+5
+12
+-
+
+SCLs
+%
+29.4%
+70.6%
+-
+
+Suppliers
+N
+%
+5
+8.9%
+24 42.9%
+22 39.3%
+4
+7.1%
+1
+1.8%
+
+Customers
+N
+%
+3
+7.1%
+29
+69.0%
+6
+14.3%
+2
+4.8%
+2
+4.8%
+
+Table A6. Distribution of central sample firms per employee category.
+Employees
+> 100k
+10k–100k
+< 10k
+n/a
+
+N
+12
+5
+-
+
+SCLs
+%
+70.6%
+29.4%
+-
+
+Suppliers
+N
+%
+12
+21.4%
+26
+46.4%
+11
+19.6%
+7
+12.5%
+
+Customers
+N
+%
+26
+61.9%
+12
+28.6%
+2
+4.8%
+2
+4.8%
+
+References
+1.
+2.
+3.
+4.
+5.
+6.
+7.
+8.
+9.
+10.
+11.
+12.
+
+Wilkinson, I.; Young, L. On cooperating: Firms, relations and networks. J. Bus. Res. 2002, 55, 123–132.
+Cannon, J.P.; Perreault, W.D. Buyer-seller relationships in business markets. J. Mark. Res. 1999, 36, 439–460.
+Doney, P.M.; Cannon, J.P. An examination of the nature of trust in buyer-seller relationships. J. Mark. 1997,
+61, 35–51.
+Kalwani, M.U.; Narayandas, N. Long-term manufacturer-supplier relationships: Do they pay off for
+supplier firms? J. Mark. 1995, 59, 1–16.
+Monczka, R.M.; Petersen, K.J.; Handfield, R.B.; Ragatz, G.L. Success factors in strategic supplier alliances:
+The buying company perspective. Decis. Sci. 1998, 29, 553–577.
+Rokkan, A.I.; Heidi, J.B.; Wathne, K.H. Specific investments in marketing relationships: Expropriation and
+bonding effects. J. Mark. Res. 2003, 40, 210–224.
+Brányi, T.; Józsa, L. Power of companies in supply chains and their effect on network development. J. Econ.
+Manag. 2015, 19, 221–239.
+Christopher, M. Logistics and Supply Chain Management, 4th ed.; Pearson Education: London, UK, 2011.
+Ketchen, D.J.; Giunipero, L.C. The intersection of strategic management and supply chain management.
+Ind. Mark. Manag. 2004, 33, 51–56.
+Shi, M.; Yu, W. Supply chain management and financial performance: Literature review and future
+directions. Int. J. Oper. ; Prod. Manag. 2013, 33, 1283–1317.
+Ellinger, A.E.; Natarajarathinam, M.; Adams, F.G.; Gray, J.B.; Hofman, D.; O’Marah, K. Supply chain
+management competency and firm financial success. J. Bus. Logist. 2011, 32, 214–226.
+Ireland, R.D.; Webb, J.W. A multi-theoretic perspective on trust and power in strategic supply chains. J.
+Oper. Manag. 2007, 25, 482–497.
+
+Logistics 2020, 4, 6
+
+13.
+
+14.
+15.
+16.
+17.
+18.
+19.
+20.
+21.
+22.
+23.
+24.
+25.
+26.
+27.
+28.
+
+29.
+30.
+31.
+32.
+33.
+34.
+35.
+
+36.
+
+37.
+
+24 of 27
+
+Vickery, S.K.; Jayaram, J.; Droge, C.; Calantone, R. The effects of an integrative supply chain strategy on
+customer service and financial performance: An analysis of direct vs. indirect relationships. J. Oper. Manag.
+2003, 21, 523–539.
+D’Avanzo, R.; von Lewinski, H.; Van Wassenhove, L.N. The link between supply chain and financial
+performance. Supply Chain Manag. Rev. 2003, 7, 40–47.
+Greer, B.M.; Theuri, P. Linking supply chain management superiority to multifaceted firm financial
+performance. J. Supply Chain Manag. 2012, 48, 97–106.
+Presutti, W.D.; Mawhinney, J.R. The supply chain-finance link. Supply Chain Manag. Rev. 2007, 11, 32–38.
+Swink, M.L.; Golecha, R.; Richardson, T. Does supply chain excellence really pay off? Supply Chain Manag.
+Rev. 2010, 14, 14–21.
+Mitra, S.; Singhal, V. Supply chain integration and shareholder value: Evidence from consortium based
+industry exchanges. J. Oper. Manag. 2008, 26, 96–114.
+Crook, T.R.; Combs, J.G. Sources and consequences of bargaining power in supply chains. J. Oper. Manag.
+2007, 25, 546–555.
+Kim, Y.H.; Henderson, D. Financial benefits and risks of dependency in triadic supply chain relationships.
+J. Oper. Manag. 2015, 36, 115–129.
+Gosman, M.L.; Kohlbeck, M.J. Effects of the existence and identity of major customers on supplier
+profitability: Is Wal-Mart different? J. Manag. Account. Res. 2009, 21, 179–201.
+Kelly, T.; Gosman, M.L. Increased buyer concentration and its effects on profitability in the manufacturing
+sector. Rev. Ind. Organ. 2000, 17, 41–59.
+Kim, Y.H.; Wemmerlöv, U. Does a supplier’s operational competence translate into financial performance?
+An empirical analysis of supplier-customer relationships. Decis. Sci. 2015, 46, 101–134.
+Lanier, D.; Wempe, W.F.; Zacharia, Z.G. Concentrated supply chain membership and financial
+performance: Chain- and firm-level perspectives. J. Oper. Manag. 2010, 28, 1–16.
+Patatoukas, P.N. Customer-base concentration: Implications for firm performance and capital markets.
+Account. Rev. 2012, 87, 363–392.
+Carey, S.; Lawson, B.; Krause, D.R. Social capital configuration, legal bonds and performance in buyersupplier relationships. J. Oper. Manag. 2011, 29, 277–288.
+Villena, V.H.; Revilla, E.; Choi, T.Y. The dark side of buyer-supplier relationships: A social capital
+perspective. J. Oper. Manag. 2011, 29, 561–576.
+Gulati, R.; Sytch, M. Dependence asymmetry and joint dependence in interorganizational relationships:
+Effects of embeddedness on a manufacturer’s performance in procurement relationships. Adm. Sci. Q. 2007,
+52, 32–69.
+Krause, D.R.; Handfield, R.B.; Tyler, B.B. The relationships between supplier development, commitment,
+social capital accumulation and performance improvement. J. Oper. Manag. 2007, 25, 528–545.
+Lawson, B.; Tyler, B.B.; Cousins, P.D. Antecedents and consequences of social capital on buyer performance
+improvement. J. Oper. Manag. 2008, 26, 446–460.
+Sanders, N.R. IT alignment in supply chain relationships: A study of supplier benefits. J. Supply Chain
+Manag. 2005, 41, 4–13.
+Rabinovich, E.; Cheon, S. Expanding horizons and deepening understanding via the use of secondary data
+sources. J. Bus. Logist. 2011, 32, 303–316.
+Busse, C. A procedure for secondary data analysis: Innovation by logistics service providers. J. Supply Chain
+Manag. 2010, 46, 44–58.
+Johnson, M.; Templar, S. The relationships between supply chain and firm performance. Int. J. Phys. Distrib.
+Logist. Manag. 2011, 41, 88–103.
+Pricewaterhouse Coopers LLP. Next-Generation Supply Chains. Efficient, Fast and Tailored. 2013.
+Available online: http://www.pwc.com/gx/en/services/advisory/consulting/supply-chain/supply-chainsurvey.html (accessed on 10 April 2016).
+Deloitte Consulting LLP Supply Chain Leadership. Distinctive Approaches to Innovation, Collaboration,
+and Talent Alignment. 2014. Available online: https://www2.deloitte.com/us/en/pages/operations/articles/
+supply-chain-leadership.html (accessed on 19 September 2016).
+Brandenburg, M. Quantitative Models for Value-Based Supply Chain Management; Springer: Berlin/Heidelberg,
+Germany, 2013.
+
+Logistics 2020, 4, 6
+
+38.
+39.
+40.
+41.
+42.
+43.
+44.
+45.
+46.
+47.
+48.
+49.
+50.
+51.
+52.
+53.
+54.
+55.
+56.
+57.
+58.
+59.
+60.
+61.
+62.
+63.
+64.
+
+25 of 27
+
+Brandenburg, M. Supply chain efficiency, value creation and the economic crisis—An empirical assessment
+of the European automotive industry 2002–2010. Int. J. Prod. Econ. 2016, 171, 321–335.
+Rostami, A.; Rostami, A.A.A.; Jalali, S.; Nazemi, A.R. Relation between supply chain efficiency and supply
+chain finance. Int. Res. J. Appl. Basic Sci. 2013, 4, 416–423.
+Christopher, M. Logistics and Supply Chain Management. Strategies for Reducing Costs and Improving Services,
+1st ed.; Pitman Publishing: London, UK, 1992.
+Christopher, M.; Gattorna, J. Supply chain cost management and value-based pricing. Ind. Mark. Manag.
+2005, 34, 115–121.
+Walters, D. Demand chain effectiveness—Supply chain efficiencies. A role for enterprise information
+management. J. Enterp. Inf. Manag. 2006, 19, 246–261.
+Lo, C.K.Y.; Yeung, A.C.L.; Cheng, T.C.E. Meta-standards, financial performance and senior executive
+compensation in China: An institutional perspective. Int. J. Prod. Econ. 2011, 129, 119–126.
+Farris II, M.T.; Hutchison, P.D. Cash-to-cash: The new supply chain management metric. Int. J. Phys. Distrib.
+Logist. Manag. 2002, 32, 288–298.
+Farris II, M.T.; Hutchison, P.D. Measuring Cash-to-Cash Performance. Int. J. Logist. Manag. 2003, 14, 83–92.
+Henry, E.; Robinson, T.R.; van Greuning, J.H. Financial Analysis Techniques. In Financial Reporting and
+Analysis; CFA Institute: Charlottesville, VA, USA, 2012; pp. 299–369.
+Wagner, S.M.; Grosse-Ruyken, P.T.; Erhun, F. The link between supply chain fit and financial performance
+of the firm. J. Oper. Manag. 2012, 30, 340–353.
+Craighead, C.W.; Blackhurst, J.; Rungtusanatham, M.J.; Handfield, R.B. The severity of supply chain
+disruptions: Design characteristics and mitigation capabilities. Decis. Sci. 2007, 38, 131–156.
+Hendricks, K.B.; Singhal, V.R. Association between supply chain glitches and operating performance.
+Manag. Sci. 2005, 51, 695–711.
+Hendricks, K.B.; Singhal, V.R. Demand-supply mismatches and stock market reaction: Evidence from
+excess inventory announcements. Manuf. Serv. Oper. Manag. 2009, 11, 509–524.
+Gartner. Gartner Supply Chain Top 25. 2016. Available online: http://www.gartner.com/technology/supply
+-chain/top25.jsp (accessed on 3 August 2016).
+McCarter, M.W.; Northcraft, G.B. Happy together?: Insights and implications of viewing managed supply
+chains as a social dilemma. J. Oper. Manag. 2007, 25, 498–511.
+Morgan, N.A.; Kaleka, A.; Gooner, R.A. Focal supplier opportunism in supermarket retailer category
+management. J. Oper. Manag. 2007, 25, 512–527.
+Blome, C.; Schoenherr, T.; Eckstein, D. The impact of knowledge transfer and complexity on supply chain
+flexibility: A knowledge-based view. Int. J. Prod. Econ. 2014, 147, 307–316.
+Hult, G.T.M.; Ketchen, D.J.; Cavusgil, S.T.; Calantone, R.J. Knowledge as a strategic resource in supply
+chains. J. Oper. Manag. 2006, 24, 458–475.
+Doyle, S.A.; Moore, C.M.; Morgan, L. Supplier management in fast moving fashion retailing. J. Fash. Mark.
+Manag. 2006, 10, 272–281.
+Hamister, J.W. Supply chain management practices in small retailers. Int. J. Retail; Distrib. Manag. 2012, 40,
+427–450.
+Ketchen, D.J.; Hult, G.T.M. Bridging organization theory and supply chain management: The case of best
+value supply chains. J. Oper. Manag. 2007, 25, 573–580.
+Tan, K.-C.; Kannan, V.R.; Handfield, R.B.; Ghosh, S. Supply chain management: An empirical study of its
+impact on performance. Int. J. Oper. Prod. Manag. 1999, 19, 1034–1052.
+Carr, A.S.; Pearson, J.N. Strategically managed buyer-supplier relationships and performance outcomes. J.
+Oper. Manag. 1999, 17, 497–519.
+Corsten, D.; Kumar, N. Do suppliers benefit from collaborative relationships with large retailers? An
+empirical investigation of efficient consumer response adoption. J. Mark. 2005, 69, 80–94.
+Gosman, M.L.; Kelly, T. Big customers and their suppliers: A case examining changes in business
+relationships and their financial effects. Issues Account. Educ. 2002, 17, 41–56.
+Duffy, R.; Fearne, A. The impact of supply chain partnerships on supplier performance. Int. J. Logist. Manag.
+2004, 15, 57–72.
+Franks, J.R.; Nyborg, K.G. Control rights, debt structure, and the loss of private benefits: The case of the
+UK insolvency code. Rev. Financ. Stud. 1996, 9, 1165–1210.
+
+Logistics 2020, 4, 6
+
+65.
+66.
+67.
+
+68.
+69.
+
+70.
+71.
+72.
+73.
+74.
+75.
+76.
+77.
+78.
+79.
+80.
+81.
+82.
+83.
+84.
+85.
+86.
+87.
+88.
+89.
+90.
+91.
+92.
+93.
+94.
+
+26 of 27
+
+Kovács, G.; Spens, K.M. Abductive reasoning in logistics research. Int. J. Phys. Distrib. Logist. Manag. 2005,
+35, 132–144.
+Coe, T.S. Using the Bloomberg professional system for finance classes. J. Financ. Educ. 2007, 33, 48–62.
+Clifford, S.; Creswell, J. At Bloomberg, Modest Strategy to Rule the World. The New York Times, 14
+November 2009. Available online: http://www.nytimes.com/2009/11/15/business/media/15bloom.html
+(accessed on 25 June 2016).
+Lei, A.Y.C.; Li, H. Using Bloomberg terminals in a security analysis and portfolio management course. J.
+Econ. Financ. Educ. 2012, 11, 17–33.
+Standard; Poor’s & Standard; Poor’s Compustat. Products & Services for the Academic Community.
+Available
+online:
+http://fccee.ugr.es/pages/facultad/vicedecanatos/vicedecanato-de-investigacion-yposgrado/documentos/bases-de-datos/compustat-for-academics/ (accessed on 22 March 2016).
+Bharadwaj, A.S. A resource-based perspective on information technology capability and firm performance:
+An empirical investigation. MIS Q. 2000, 24, 169–196.
+Santhanam, R.; Hartono, E. Issues in linking information technology capability to firm performance. Mis
+Q. 2003, 27, 125–153.
+Aronow, S.; Burkett, M.; Romano, J.; Nilles, K. The 2016 supply chain top 25: Lessons from leaders. Supply
+Chain Manag. Rev. 2016, 20, 10–21.
+Gilmore, D. Understanding the 2015 Gartner Top 25 Supply Chain Rankings. 2015 Available online:
+http://www.scdigest.com/assets/FirstThoughts/15-05-21.php (accessed on 25 May 2016).
+Aronow, S.; Burkett, M.; Romano, J.; Nilles, K. 2015 supply chain top 25: The art and science. Supply Chain
+Manag. Rev. 2015, 19, 14–22.
+Gartner. Our methodology: How Gartner selects the top 25. Supply Chain Manag. Rev. 2015, 19, 23.
+Aronow, S.; Hofman, D.; Burkett, M.; Romano, J.; Nilles, K. The 2014 supply chain top 25: Leading the
+decade. Supply Chain Manag. Rev. 2014, 18, 8–17.
+Hofman, D. The top 25 supply chains: Leadership in action. Supply Chain Manag. Rev. 2011, 15, 8–15.
+Hofman, D.; Aronow, S. The supply chain top 25: Raising the bar. Supply Chain Manag. Rev. 2012, 16, 10–
+19.
+Hofman, D.; Aronow, S.; Nilles, K. The 2013 supply chain: Learning from leaders. Supply Chain Manag. Rev.
+2013, 17, 12–21.
+Poston, R.; Grabski, S Financial impacts of enterprise resource planning implementations. Int. J. Account.
+Inf. Syst. 2001, 2, 271–294.
+Stewart, G. Supply chain performance benchmarking study reveals keys to supply chain excellence. Logist.
+Inf. Manag. 1995, 8, 38–44.
+Weiers, R.M. Introductory Business Statistics, 7th ed.; Cengage Learning: Boston, MA, USA, 2011.
+Conover, W.J. Practical Nonparametric Statistics; John Wiley and Sons: Hoboken, NJ, USA, 1999.
+Hofmann, E.; Kotzab, H. A supply chain-oriented approach of working capital management. J. Bus. Logist.
+2010, 31, 305–330.
+Meltzer, A.H. Mercantile credit, monetary policy, and size of firms. The Review of Economics and Statistics
+1960, 429-437.
+Petersen, M.A.; Rajan, R.G. Trade credit: Theories and evidence. Rev. Financ. Stud. 1997, 10, 661–691.
+Cuñat, V. Trade credit: Suppliers as debt collectors and insurance providers. Rev. Financ. Stud. 2007, 20,
+491–527.
+Long, M.S.; Malitz, I.B.; Ravid, S.A. Trade credit, quality guarantees, and product marketability. Financ.
+Manag. 1993, 22, 117–127.
+Ng, C.K.; Smith, J.K.; Smith, R.L. Evidence on the determinants of credit terms used in interfirm trade. J.
+Financ. 1999, 54, 1109–1129.
+Bianco, A.; Zellner, W. Is Wal-Mart too powerful? Bus. Week 2003, 3852, 100–110.
+Cannon, J.P.; Doney, P.M.; Mullen, M.R.; Petersen, K.J. Building long-term orientation in buyer-supplier
+relationships: The moderating role of culture. J. Oper. Manag. 2010, 28, 506–521.
+Cao, M.; Zhang, Q. Supply chain collaboration: Impact on collaborative advantage and firm performance.
+J. Oper. Manag. 2011, 29, 163–180.
+Zeller, T.L.; Gillis, D.M. Achieving market excellence through quality: The case of Ford Motor. Bus. Horiz.
+1995, 38, 23–31.
+Emerson, R.M. Power-dependence relations. Am. Sociol. Rev. 1962, 27, 31–41.
+
+Logistics 2020, 4, 6
+
+27 of 27
+
+95.
+
+Lambert, D.M.; Cooper, M.C.; Pagh, J.D. Supply chain management: Implementation issues and research
+opportunities. Int. J. Logist. Manag. 1998, 9, 1–19.
+96. Apple
+Inc.
+Supplier
+Responsibility
+2016
+Progress
+Report.
+2016.
+Available
+online:
+http://www.apple.com/supplier-responsibility/progress-report/ (accessed on 1 November 2016).
+97. Choi, T.Y.; Wu, Z. Triads in supply networks: Theorizing buyer-supplier-supplier relationships. J. Supply
+Chain Manag. 2009, 45, 8–25.
+98. Hofmann, E.; Belin, O. Supply Chain Finance Solutions. Relevance—Propositions—Market Value; Springer:
+Berlin/Heidelberg, Germany, 2011; doi:10.1007/978-3-642-17566-4.
+99. Wetzel, P.; Hofmann, E. Supply chain finance, financial constraints and corporate performance: An
+explorative network analysis and future research agenda. Int. J. Prod. Econ. 2019, 216, 364–383.
+100. Lin, B.; Collins, J.; Su, R.K. Supply chain costing: An activity-based perspective. Int. J. Phys. Distrib. Logist.
+Manag. 2001, 31, 702–713.
+101. Hofmann, E.; Bosshard, J. Supply chain management and activity-based costing. Int. J. Phys. Distrib. Logist.
+Manag. 2017, 47, 712–735.
+© 2020 by the authors. Licensee MDPI, Basel, Switzerland. This article is an open access
+article distributed under the terms and conditions of the Creative Commons Attribution
+(CC BY) license (http://creativecommons.org/licenses/by/4.0/).
+
+
